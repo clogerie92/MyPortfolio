@@ -27,3 +27,14 @@ a:after {
 nav a:hover:after {
     width: 100%;
 }
+
+.about-section {
+    display: flex;
+    align-items: center;
+}
+
+#about {
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+  }
